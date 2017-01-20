@@ -1,4 +1,4 @@
-Sample_App::Application.routes.draw do
+WatermelonBust::Application.routes.draw do
   resources :pins
 
   root "pages#home"
